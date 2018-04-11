@@ -139,6 +139,10 @@ It takes the OTP as a command-line parameter i.e. type "node test.js ", insert y
 * https://code.google.com/p/yubikey-val-server-php/wiki/GettingStartedWritingClients
 * https://code.google.com/p/yubikey-val-server-php/wiki/ValidationProtocolV20
 
+## Plans for web component
+will be based on this codepen: https://codepen.io/neilkalman/pen/LdagNR
+maybe without the modal and different text. here's the icon only version: https://codepen.io/neilkalman/pen/GxeYjy
+
 ## Disclaimer
 
 This software is open-source and is a personal project, not officially endorsed by Yubico in any way.
