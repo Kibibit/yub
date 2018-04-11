@@ -1,8 +1,15 @@
-# YUB
+# ![Yubikey logo](img/yubikey2Text_trans.png)
 
+##### Based on [`glynnbird/yub`](https://github.com/glynnbird/yub)
 [![NPM](https://nodei.co/npm/yub.png)](https://nodei.co/npm/yub/)
 
 ## Introduction
+
+`kibikey` is a module to help you handle yubikeys in a secure way.
+The plan is to create two modules:
+- one for terminal use
+- one for web client use
+client id and secret will be saved automatically in the OS's Credential Vault
 
 What is Yub? It's a simple Yubico Yubikey API client that
 
@@ -16,7 +23,7 @@ What is Yub? It's a simple Yubico Yubikey API client that
 A Yubikey is a USB device manufactured by [Yubico](https://www.yubico.com/products/yubikey-hardware/yubikey/) that appears
 to your computer as a USB keyboard. 
 
-![Yubikeys](https://raw.github.com/glynnbird/yub/master/img/yubikeys.jpg)
+![Yubikeys](img/yubikeys.jpg)
 
 It generates one-time passwords consisting of:
 
